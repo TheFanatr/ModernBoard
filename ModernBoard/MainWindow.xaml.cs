@@ -24,5 +24,20 @@ namespace ModernBoard
         {
             InitializeComponent();
         }
+
+        private void New_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("");
+        }
+
+        private void Open_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Import_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }

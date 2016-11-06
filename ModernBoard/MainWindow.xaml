@@ -1,0 +1,28 @@
+﻿<Window x:Name="StartPage" x:Class="ModernBoard.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ModernBoard"
+        mc:Ignorable="d"
+        Title="ModernBoard Welcome Page" ShowInTaskbar="False" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FF191919" Foreground="#FFE6E6E6" HorizontalAlignment="Center" VerticalAlignment="Center" ScrollViewer.VerticalScrollBarVisibility="Disabled" FontFamily="Gidole" SnapsToDevicePixels="True" Height="260.301" Width="653.627" FontStretch="Expanded">
+    <Viewbox HorizontalAlignment="Left" Height="231" VerticalAlignment="Top" Width="648" Stretch="None">
+        <Grid>
+            <Label x:Name="WelcomeTo" Content="Welcome to" HorizontalAlignment="Left" Margin="38,27,0,0" VerticalAlignment="Top" FontSize="12" FontFamily="Gidole" FontWeight="Bold" Foreground="#FFE6E6E6"/>
+            <Label x:Name="Modern" Content="Modern" HorizontalAlignment="Left" Margin="31,36,0,0" VerticalAlignment="Top"  FontSize="90" Foreground="#FFE6E6E6" FontFamily="Gidole" FontWeight="Thin"/>
+            <Label x:Name="Board" Content="Board" HorizontalAlignment="Left" Margin="336,36,0,0" VerticalAlignment="Top"  FontSize="90" Foreground="#FFE6E6E6" FontFamily="Gidole" FontWeight="Bold"/>
+            <Button x:Name="New" Content="New Board" HorizontalAlignment="Left" Margin="44,135,0,0" VerticalAlignment="Top" Width="272" FontWeight="DemiBold" Foreground="#FFE6E6E6" Background="#2c406e" BorderThickness="0" Height="24" RenderTransformOrigin="0.5,0.5">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+            <Button x:Name="Open" Content="Open Board" HorizontalAlignment="Left" Margin="329,135,0,0" VerticalAlignment="Top" Width="272" FontWeight="DemiBold" Foreground="#FFE6E6E6" Background="#2c406e" BorderThickness="0" Height="24"/>
+            <Button x:Name="Import" Content="Import File" HorizontalAlignment="Left" Margin="44,168,0,0" VerticalAlignment="Top" Width="557" FontWeight="DemiBold" Foreground="#FFE6E6E6" Background="#2c406e" BorderThickness="0" Height="24"/>
+        </Grid>
+    </Viewbox>
+</Window>

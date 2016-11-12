@@ -1,0 +1,59 @@
+﻿'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll'. 
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\Users\alexf\Documents\Visual Studio 2015\Projects\ModernBoard\ModernBoard\bin\Debug\ModernBoard.vshost.exe'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll'. Cannot find or open the PDB file.
+The thread 0x31d4 has exited with code 0 (0x0).
+The thread 0x44d0 has exited with code 0 (0x0).
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\Users\alexf\Documents\Visual Studio 2015\Projects\ModernBoard\ModernBoard\bin\Debug\ModernBoard.exe'. Symbols loaded.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework.Aero2\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.Aero2.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework-SystemXmlLinq\v4.0_4.0.0.0__b77a5c561934e089\PresentationFramework-SystemXmlLinq.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework-SystemXml\v4.0_4.0.0.0__b77a5c561934e089\PresentationFramework-SystemXml.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\Users\alexf\AppData\Local\Temp\VisualStudio.XamlDiagnostics.15400\WpfXamlDiagnosticsTap.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\assembly\GAC\Microsoft.VisualStudio.OLE.Interop\7.1.40304.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.OLE.Interop.dll'. Module was built without symbols.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\Users\alexf\Documents\Visual Studio 2015\Projects\ModernBoard\ModernBoard\bin\Debug\MahApps.Metro.dll'. Symbols loaded.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\Users\alexf\Documents\Visual Studio 2015\Projects\ModernBoard\ModernBoard\bin\Debug\MaterialDesignThemes.Wpf.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\Users\alexf\Documents\Visual Studio 2015\Projects\ModernBoard\ModernBoard\bin\Debug\System.Windows.Interactivity.dll'. Cannot find or open the PDB file.
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll'. Cannot find or open the PDB file.
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='IdealForegroundColorBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='BlackBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='IdealForegroundColorBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='BlackBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='IdealForegroundColorBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='BlackBrush'
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationProvider\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll'. Cannot find or open the PDB file.
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueLightBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueLightBrush'
+'ModernBoard.vshost.exe' (CLR v4.0.30319: ModernBoard.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework-SystemData\v4.0_4.0.0.0__b77a5c561934e089\PresentationFramework-SystemData.dll'. Cannot find or open the PDB file.
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueMidBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueMidForegroundBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueLightBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueLightBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueLightBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueLightBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueMidBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueLightBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueMidForegroundBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueLightBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueMidBrush'
+System.Windows.ResourceDictionary Warning: 9 : Resource not found; ResourceKey='PrimaryHueMidForegroundBrush'
+The thread 0x1034 has exited with code 0 (0x0).
+The thread 0x225c has exited with code 0 (0x0).
+The thread 0x35b8 has exited with code 0 (0x0).
+The program '[15400] ModernBoard.vshost.exe' has exited with code 0 (0x0).

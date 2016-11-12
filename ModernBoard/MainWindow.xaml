@@ -10,11 +10,27 @@
         <Grid Height="400" Width="850">
             <Label x:Name="WelcomeTo" Content="Welcome to" HorizontalAlignment="Left" Margin="128,95,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Segoe" FontWeight="Bold" Foreground="#FFE6E6E6"/>
             <Label x:Name="Subtitle" Content="A whiteboard for the modern classroom." HorizontalAlignment="Left" Margin="435,200,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Segoe" FontWeight="UltraLight" Foreground="#FFE6E6E6"/>
-            <Label x:Name="Modern" Content="Modern" HorizontalAlignment="Left" Margin="121,108,0,0" VerticalAlignment="Top"  FontSize="90" Foreground="#FFE6E6E6" FontFamily="Segoe" FontWeight="Thin" Height="99"/>
-            <Label x:Name="Board" Content="Board" HorizontalAlignment="Left" Margin="426,108,0,0" VerticalAlignment="Top"  FontSize="90" Foreground="#FFE6E6E6" FontFamily="Segoe" FontWeight="Bold" Height="99"/>
+            <Grid x:Name="ModernBoard" Margin="121,108,163,193">
+                <Label x:Name="Modern" Content="Modern" HorizontalAlignment="Left" VerticalAlignment="Top"  FontSize="90" Foreground="#FFE6E6E6" FontFamily="Segoe" FontWeight="Thin" Height="99"/>
+                <Label x:Name="Board" Content="Board" HorizontalAlignment="Left" Margin="305,0,0,0" VerticalAlignment="Top"  FontSize="90" Foreground="#FFE6E6E6" FontFamily="Segoe" FontWeight="Bold" Height="99"/>
+            </Grid>
             <Button x:Name="New" Content="New Board" HorizontalAlignment="Left" Margin="279,264,0,0" VerticalAlignment="Top" Width="280" FontWeight="DemiBold" Foreground="#FFE6E6E6" Background="#2c406e" BorderThickness="0" Height="24" Click="New_Click"/>
             <Button x:Name="Open" Content="Open Board" HorizontalAlignment="Left" Margin="279,293,0,0" VerticalAlignment="Top" Width="280" FontWeight="DemiBold" Foreground="#FFE6E6E6" Background="#2c406e" BorderThickness="0" Height="24" Click="Open_Click"/>
             <Button x:Name="Import" Content="Import File" HorizontalAlignment="Left" Margin="279,322,0,0" VerticalAlignment="Top" Width="280" FontWeight="DemiBold" Foreground="#FFE6E6E6" Background="#2c406e" BorderThickness="0" Height="24" Click="Import_Click"/>
+            <Grid.Triggers>
+                <EventTrigger RoutedEvent="Grid.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ThicknessAnimationUsingKeyFrames Storyboard.TargetName="WelcomeTo" Storyboard.TargetProperty="Margin" BeginTime="0:0:0">
+                                <SplineThicknessKeyFrame KeyTime="0:0:0" Value="-89,95,0,0" />
+                                <SplineThicknessKeyFrame KeyTime="0:0:0.5" Value="128,95,0,0" />
+                            </ThicknessAnimationUsingKeyFrames>
+                            <DoubleAnimation Storyboard.TargetName="ModernBoard"  Storyboard.TargetProperty="Height" From="0.0" To="99" Duration="0:0:0.4"/>
+                            <DoubleAnimation Storyboard.TargetName="Subtitle"  Storyboard.TargetProperty="Opacity" From="0.0" To="1.0" Duration="0:0:1"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Grid.Triggers>
         </Grid>
     </Viewbox>
 </Window>
